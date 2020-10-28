@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>拥抱迭代</title>
-    <link>https://xations.github.io/</link>
-    <description>Recent content on 拥抱迭代</description>
+    <title>theme on 拥抱迭代</title>
+    <link>https://xations.github.io/tags/theme/</link>
+    <description>Recent content in theme on 拥抱迭代</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 31 Mar 2019 17:49:40 +0800</lastBuildDate><atom:link href="https://xations.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Mar 2019 17:49:40 +0800</lastBuildDate><atom:link href="https://xations.github.io/tags/theme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Theme Preview</title>
       <link>https://xations.github.io/post/theme-preview/</link>
@@ -21,15 +21,6 @@
 &lt;/span&gt;&lt;span class=&#34;gu&#34;&gt;##### H5
 &lt;/span&gt;&lt;span class=&#34;gu&#34;&gt;###### H6
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>关于</title>
-      <link>https://xations.github.io/about/</link>
-      <pubDate>Sat, 29 Dec 2018 20:24:28 +0800</pubDate>
-      
-      <guid>https://xations.github.io/about/</guid>
-      <description>Hugo 官方主页: https://gohugo.io/ Hugo的安装方式有两种，一种是直接下载编译好的Hugo二进制文件。如果只是使用Hugo推荐用这种方式。另一种方式是获取Hugo的源码，自己编译。由于各种不可预料的网络问题，第二种方式不</description>
     </item>
     
   </channel>

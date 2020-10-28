@@ -3,20 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://xations.github.io/post/</loc>
+    <lastmod>2019-03-31T17:49:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xations.github.io/tags/</loc>
+    <lastmod>2019-03-31T17:49:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xations.github.io/tags/theme/</loc>
+    <lastmod>2019-03-31T17:49:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xations.github.io/post/theme-preview/</loc>
+    <lastmod>2019-03-31T17:49:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xations.github.io/</loc>
+    <lastmod>2019-03-31T17:49:40+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://xations.github.io/about/</loc>
     <lastmod>2018-12-29T20:24:28+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://xations.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://xations.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://xations.github.io/</loc>
   </url>
   
 </urlset>
