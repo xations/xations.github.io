@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>产品汪 on 拥抱迭代</title>
+    <link>https://xations.github.io/tags/%E4%BA%A7%E5%93%81%E6%B1%AA/</link>
+    <description>Recent content in 产品汪 on 拥抱迭代</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 28 Oct 2020 14:51:20 +0800</lastBuildDate><atom:link href="https://xations.github.io/tags/%E4%BA%A7%E5%93%81%E6%B1%AA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>10月工作总结</title>
+      <link>https://xations.github.io/posts/10-think-in-project/</link>
+      <pubDate>Wed, 28 Oct 2020 14:51:20 +0800</pubDate>
+      
+      <guid>https://xations.github.io/posts/10-think-in-project/</guid>
+      <description>B端产品的定义 B是business，所以B端产品主要服务对象是一个团体，包括企业，政府。B端产品主要在企业的业务中，以企业作为服务主体，为企业客户提供平台，产品或服务。 客户作为一个团体，产品需优先满足</description>
+    </item>
+    
+  </channel>
+</rss>
